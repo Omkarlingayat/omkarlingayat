@@ -1,5 +1,5 @@
 <p  align="center">
-  <img width="200" height="200" src="https://github.com/Omkarlingayat/omkarlingayat/blob/main/github-header-image.png" alt="my banner">
+  <img width="200" height="200" src="https://github.com/Omkarlingayat/omkarlingayat/blob/main/sodapdf-converted.jpg">
 </p>
 <h1 align="center">Hi 👋, I'm Omkar Lingayat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
