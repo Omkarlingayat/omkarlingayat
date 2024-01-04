@@ -1,4 +1,5 @@
-![]("https://github.com/Omkarlingayat/omkarlingayat/blob/main/sodapdf-converted.jpg")
+<div align="center"> <img src="https://github.com/Omkarlingayat/omkarlingayat/blob/main/sodapdf-converted.jpg"> </div>
+
 <h1 align="center">Hi 👋, I'm Omkar Lingayat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
