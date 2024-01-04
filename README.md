@@ -1,4 +1,4 @@
-![logo]("https://github.com/Omkarlingayat/omkarlingayat/blob/main/sodapdf-converted.jpg")
+![]("https://github.com/Omkarlingayat/omkarlingayat/blob/main/sodapdf-converted.jpg")
 <h1 align="center">Hi 👋, I'm Omkar Lingayat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
