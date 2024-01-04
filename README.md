@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lingayatportfolio.netlify.app](https://lingayatportfolio.netlify.app)
 
-- 💬 Ask me about **Java,DSA**
+- 💬 Ask me about **Java, MYSQL, HTML, CSS, JavaScript, JDBC**
 
 - 📫 How to reach me **omkarlingayat37@gmail.com**
 
